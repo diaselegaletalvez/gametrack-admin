@@ -1,0 +1,19 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Env
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "GameTrack Admin",
+    "slug": "gametrack-admin",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "gametrackadmin",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
